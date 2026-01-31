@@ -92,7 +92,7 @@ Sec-WebSocket-Accept: m8N8EOzb5enZPX0VbJ+02PZaR2I=
 Content-Length: 0
 
 **Proof of Error (Injection Test)**
-![SQL Injection Error Triggered]:
+![SQL Injection Error Triggered](https://github.com/venu-maxx/PortSwigger-LAb-1/blob/588d79eab4cd2db473538ef5407f857095dae2cc/error-internal-server.jpg)
 *Figure 1: Database error after injecting single quote ('), confirming lack of input sanitization.*
 
 **Proof of Successful Exploitation**

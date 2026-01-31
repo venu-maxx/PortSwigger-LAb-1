@@ -96,10 +96,10 @@ Content-Length: 0
 *Figure 1: Database error after injecting single quote ('), confirming lack of input sanitization.*
 
 **Proof of Successful Exploitation**
-![All Products Displayed After Bypass]:
+![All Products Displayed After Bypass](https://github.com/venu-maxx/PortSwigger-LAb-1/blob/6ae2a2e3d68284b459a193ca3d6acb6b555ebf7a/lab-solved-congrats.jpg)
 *Figure 2: Full product listing retrieved after payload `' OR 1=1 --`, bypassing the released=1 filter.*
 
-![Lab Solved Congratulations]:
+![Lab Solved Congratulations]( )
 *Figure 3: PortSwigger Academy confirmation of lab completion.*
 
 Exploitation Explanation:

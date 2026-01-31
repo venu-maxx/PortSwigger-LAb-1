@@ -1,9 +1,14 @@
 # PortSwigger Web Security Academy Lab Report: SQL Injection Vulnerability Exploitation
 
+
 **Report ID:** PS-LAB-001
+
 **Author:** Venu Kumar(Venu)
+
 **Date:** January 30, 2026
+
 **Lab Version:** PortSwigger Web Security Academy – SQL Injection Lab (Apprentice Level).
+
 
 ## Executive Summary
 **Vulnerability Type:** SQL injection allowing retrieval of hidden data.
